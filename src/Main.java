@@ -4,3 +4,4 @@ public class Main {
     }
 }
 //B21 is exited!!!
+//B21 is dedicated
